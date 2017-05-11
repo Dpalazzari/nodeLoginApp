@@ -6,5 +6,6 @@
 
 ## Future
 
+- Try to push a mongoDB node app to a live server.
 - Build a weather app in Node with login functionality
 - Try to test it
